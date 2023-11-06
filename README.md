@@ -3,3 +3,6 @@ Pure Flow Water Management System: A digital platform revolutionizing water mana
 
 
 dont forget to unzip asstes/template if you download this code
+
+This project is completely tested on local host(XAMP).
+MYSQL as database
